@@ -10,6 +10,7 @@ if (isset($_GET['logout'])) {
     header("Location: index.php");
 }
 include('../../controller/MedicalRecordC.php');
+//nqknxkslkx
 
 
 $error = "";
